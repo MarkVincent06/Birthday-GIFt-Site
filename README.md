@@ -1,6 +1,6 @@
 # Birthday GIFt Site
 
-- <a href="https://cleofe-basketball-scoreboard.netlify.app/">Live Preview</a>
+- <a href="https://cleofe-birthday-gif.netlify.app">Live Preview</a>
 
 ## Welcome! 👋
 
